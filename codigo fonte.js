@@ -57,5 +57,6 @@ seguranca.registrarUsuario("cliente1", "1234");
 seguranca.autenticar("cliente1", "1234");
 seguranca.verificarAcesso("cliente1");
 console.log("Hoje é quinta");
+console.log(bora tomar uma);
 
 seguranca.mostrarLogs();
